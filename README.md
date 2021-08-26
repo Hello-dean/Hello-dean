@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hi, I’m @Hello-dean
-👀 I’m interested in Java and deep learning.
-🌱 I’m currently learning to built my own website.
-💞️ I’m looking to collaborate on NLP.I am working on a project to convert natural language to IDL interface description language.
+👋 Hi, I’m @Hello-dean  
+👀 I’m interested in Java and deep learning.  
+🌱 I’m currently learning to built my own website.  
+💞️ I’m looking to collaborate on NLP.I am working on a project to convert natural language to IDL interface description language.  
 📫 How to reach me ----- QQ:294372737 email:majorhudaclutchfactor@gmail.com
