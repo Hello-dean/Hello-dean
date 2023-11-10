@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 👀 I’m interested in Java and deep learning.  
 🌱 I’m currently learning to built my own website.  
 💞️ I’m looking to collaborate on Java project.I am working on a mysterious project.  
-📫 How to reach me ----- QQ:294372737 email:majorhudaclutchfactor@gmail.com
+📫 How to reach me ----- email:decanus@163.com
